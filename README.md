@@ -40,5 +40,8 @@ Here is a link to GitHub guide Mastering Markdown:<br>
 GitHub Learning Lab Course on Using Markdown:<br>
 [GitHub Learning Lab Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 
+GitHub Flavored Markdown Spec:<br>
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+
 More In-Depth Information about Markdown:<br>
 [Daring Fireball-John Gruber](https://daringfireball.net/projects/markdown/)
