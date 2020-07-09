@@ -21,7 +21,7 @@ The number of symbols used correlate to the heading level. For example, a h1 hea
 
 ### Link Markdown
 To create a link using Markdown:<br>
-[Link Description](https://www.google.com)<br>
+[Link Description] (https://www.google.com)<br>
 
 ** Note: There is no space between the closing bracket and the parenthesis of the URL.
 
