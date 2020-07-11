@@ -28,6 +28,10 @@ To create a link using Markdown:<br>
 
 
 ## Emojis
+Here are two lists of Markdown designators to render Emojis in you GitHub pages.</br>
+
+[Emoji Cheatsheet by rxaviers](https://gist.github.com/rxaviers/7360908) by Rafael Xavier de Souza [Rafael Xavier de Souza](https://gist.github.com/rxaviers)</br>
+[Emoji Cheatsheet by KB](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c) by KB [KB Melbourne](https://gist.github.com/roachhd)
 
 
 ## More Markdown Information
